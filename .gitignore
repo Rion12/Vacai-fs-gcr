@@ -1,0 +1,12 @@
+.DS_Store
+/agent/vacAI/shared_libraries/__pycache__
+/agent/vacAI/sub_agents/__pycache__
+/agent/vacAI/sub_agents/vacAI_Companion/__pycache__
+/agent/vacAI/sub_agents/vacAI_Echo/__pycache__
+/agent/vacAI/sub_agents/vacAI_Herald/__pycache__
+/agent/vacAI/sub_agents/vacAI_Keeper/__pycache__
+/agent/vacAI/sub_agents/vacAI_Spark/__pycache__
+/agent/vacAI/sub_agents/vacAI_Voyager/__pycache__
+/agent/vacAI/sub_agents/vacAI_Weaver/__pycache__
+/agent/vacAI/tools/__pycache__
+/agent/vacAI/utils/__pycache__

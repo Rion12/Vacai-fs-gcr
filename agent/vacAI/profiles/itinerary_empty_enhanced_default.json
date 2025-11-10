@@ -1,0 +1,174 @@
+{
+  "state": {
+    "user_profile": {
+        "language": "Spanish",
+        "group_size": 1,
+        "group_details": [],
+        "passport_nationality": "",
+        "home": {
+          "address": "",
+          "city": "",
+          "country": "",
+          "local_prefer_mode": ""
+        },
+        "contact_info": {
+          "email": "",
+          "phone": "",
+          "emergency_contact": ""
+        },
+        "preferences": {
+          "travel_style": {
+            "pace": "moderate",
+            "experience_type": "mixed",
+            "planning_style": "moderate"
+          },
+          "accommodation_preferences": {
+            "type": [],
+            "location_preference": "",
+            "essential_amenities": [],
+            "preferred_amenities": []
+          },
+          "transportation_preferences": {
+            "seat_preference": "window",
+            "flight_times": [],
+            "local_transport": []
+          },
+          "activity_interests": {
+            "preferred_activities": [],
+            "bucket_list_experiences": [],
+            "activities_to_avoid": []
+          },
+          "culinary_preferences": {
+            "adventure_level": "moderate",
+            "dining_style": [],
+            "preferred_cuisines": []
+          },
+          "behavioral_preferences": {
+            "social_preference": "mixed",
+            "energy_level": "flexible",
+            "environment_preference": "moderate"
+          },
+          "likes": [],
+          "dislikes": [],
+          "must_have_experiences": [],
+          "deal_breakers": []
+        },
+        "experience": {
+          "travel_frequency": "occasionally",
+          "travel_history": {
+            "international_experience": false,
+            "visited_regions": [],
+            "visited_countries": [],
+            "longest_trip_duration": "",
+            "most_recent_trip": {}
+          },
+          "travel_expertise": {
+            "booking_comfort": "medium",
+            "logistics_comfort": "medium",
+            "technology_comfort": "medium",
+            "planning_style": "moderate"
+          },
+          "comfort_levels": {
+            "airport_navigation": "medium",
+            "flight_connections": "acceptable",
+            "language_barriers": "manageable",
+            "public_transportation": "limited",
+            "unknown_destinations": "exciting"
+          },
+          "support_needs": {
+            "booking_assistance": "medium",
+            "detailed_instructions": "helpful",
+            "backup_planning": "preferred",
+            "local_support": "helpful"
+          },
+          "experience_insights": {}
+        },
+        "budget": {
+          "budget_details": {
+            "total_budget": 0,
+            "currency": "USD",
+            "budget_per_person": true,
+            "includes_flights": true,
+            "remaining_budget": 0,
+            "spent_to_date": 0,
+            "last_updated": null
+          },
+          "budget_breakdown": {},
+          "budget_preferences": {
+            "flexibility": "moderate",
+            "overage_comfort": 10,
+            "splurge_categories": [],
+            "savings_categories": [],
+            "price_sensitivity": "medium"
+          },
+          "tracking_settings": {
+            "alert_thresholds": [50, 75, 90],
+            "include_tips": true,
+            "include_taxes": true,
+            "buffer_percentage": 10.0
+          }
+        },
+        "special_considerations": {
+          "medical_requirements": [],
+          "dietary_restrictions": [],
+          "accessibility_needs": {
+            "mobility": [],
+            "vision": [],
+            "hearing": [],
+            "cognitive": [],
+            "equipment": [],
+            "accommodation_requirements": []
+          },
+          "cultural_religious": {
+            "religious_observances": [],
+            "cultural_requirements": [],
+            "dress_codes": [],
+            "facility_needs": [],
+            "restrictions": []
+          },
+          "travel_restrictions": {},
+          "safety_security": {},
+          "special_equipment": {},
+          "psychological_considerations": {},
+          "emergency_information": {
+            "primary_contact": {},
+            "medical_contacts": {},
+            "insurance_information": {},
+            "special_procedures": []
+          }
+        },
+        "profile_created": null,
+        "last_updated": null,
+        "profile_completeness": {}
+      },
+    "itinerary": {},
+    "origin": "",
+    "destination": "",
+    "start_date": "",
+    "end_date": "",
+    "outbound_flight_selection": "",
+    "outbound_seat_number": "",
+    "return_flight_selection": "",
+    "return_seat_number": "",
+    "outbound_train_selection": "",
+    "outbound_train_class_type": "",
+    "return_train_selection": "",
+    "return_train_class_type": "",
+    "outbound_bus_selection": "",
+    "outbound_bus_class": "",
+    "return_bus_selection": "",
+    "return_bus_class": "",
+    "cab_selection": "",
+    "cab_type": "",
+    "outbound_transport_selection": "",
+    "outbound_seat_or_class": "",
+    "return_transport_selection": "",
+    "return_seat_or_class": "",
+    "hotel_selection": "",
+    "room_selection": "",
+    "poi": "",
+    "itinerary_datetime": "",
+    "itinerary_start_date": "",
+    "itinerary_end_date": ""
+  }
+}
